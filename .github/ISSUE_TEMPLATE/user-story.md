@@ -7,6 +7,7 @@ assignees: 'MejarAdobo'
 ---
 
 **User Story:**
+
 **As a** User,
 **I want to**
 **So that**
