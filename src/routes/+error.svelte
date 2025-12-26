@@ -20,7 +20,7 @@
 		<!-- return user into the home page -->
 		<button
 			class="text-semibold mx-auto mt-2 rounded-xl bg-blue-500 px-4 py-2 text-lg text-neutral-100 hover:bg-blue-600"
-			on:click={goto('/')}
+			onclick={goto('/')}
 			>Return to Home
 		</button>
 	</div>
